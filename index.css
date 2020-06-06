@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+
+h2.intro {
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
+
+p.intro{
+  text-align: center;
+}
+
+img.intro{
+  border-image-width: 4cm;
+  text-align: center;
+}
